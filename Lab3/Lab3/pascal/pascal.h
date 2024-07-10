@@ -1,0 +1,1 @@
+void pascal(int n);

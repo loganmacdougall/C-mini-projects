@@ -1,0 +1,1 @@
+void calculateCoins(int pennies);

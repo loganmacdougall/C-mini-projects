@@ -1,0 +1,20 @@
+file happy_birthday_geralt
+break 78
+break 98
+break 117
+break 138
+start
+continue
+step
+set var desire = 1000
+continue
+step
+step
+return 1
+continue
+step
+set var memory = malloc(sizeof(char) * 200)
+continue
+step
+set var letter->invitation = 0
+continue
